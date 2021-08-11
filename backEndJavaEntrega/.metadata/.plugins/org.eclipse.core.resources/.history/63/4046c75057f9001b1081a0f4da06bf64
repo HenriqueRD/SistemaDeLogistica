@@ -1,0 +1,5 @@
+package com.dordox.delivery.entity;
+
+public class ClienteEntity {
+
+}
